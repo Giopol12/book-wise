@@ -16,5 +16,6 @@ export const globalStyles = globalCss({
   'body, input, textarea, button': {
     fontFamily: 'Nunito',
     fontWeight: 400,
+    outline: 'none',
   },
 })

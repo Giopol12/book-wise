@@ -57,6 +57,8 @@ export const {
     colors: {
       white: '#FFFFFF',
       black: '#000000',
+      red300: '#F75A68',
+      red500: '#AB222E',
       green100: '#50B2C0',
       green200: '#255D6A',
       green300: '#0A313C',
